@@ -1,0 +1,12 @@
+# exclude everything
+*
+
+# include specific
+!.gitignore
+!*.sh
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.md
+!CMakeLists.txt

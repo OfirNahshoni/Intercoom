@@ -8,4 +8,5 @@ This system includes 2 main components:
    it includes display-monitor, buttons grid (answer/open connection, decline), speaker.
 
 ## Basic Flow
-### 
+![img.png](img.png)
+
