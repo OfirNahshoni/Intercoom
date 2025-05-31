@@ -10,4 +10,5 @@
 !*.h
 !*.md
 !CMakeLists.txt
+!assets/
 !assets/*.png

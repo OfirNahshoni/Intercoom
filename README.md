@@ -14,7 +14,7 @@ This system includes 2 main components:
 ## Diagrams
 
 ### Hardware Diagram
-![img.png](assets/hardware-diagram.png)
+![Hardware Diagram](assets/hardware-diagram.png)
 
 ### Class Diagram
-![img.png](assets/class-diagram.png)
+![Class Diagram](assets/class-diagram.png)
