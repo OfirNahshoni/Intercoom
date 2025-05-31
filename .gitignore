@@ -2,7 +2,7 @@
 *
 
 # include specific
-!.gitignore
+!*.gitignore
 !*.sh
 !*.cpp
 !*.hpp
