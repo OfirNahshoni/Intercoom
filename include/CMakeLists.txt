@@ -1,4 +1,7 @@
 # include/CMakeLists.txt
 
 cmake_minimum_required(VERSION 3.20)
-project(intercom)
+
+target_sources(audio_manager_static PRIVATE AudioManager.hpp)
+target_sources(audio_manager_shared PRIVATE AudioManager.hpp)
+
