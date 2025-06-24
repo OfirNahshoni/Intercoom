@@ -1,7 +1,7 @@
 # top-level CMakeLists
 
 cmake_minimum_required(VERSION 3.20)
-project(intercom)
+project(Intercoom)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_C_EXTENSIONS OFF)
@@ -17,10 +17,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_SOURCE_DIR}/bin/release)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY_DEBUG ${CMAKE_SOURCE_DIR}/bin/debug)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY_RELEASE ${CMAKE_SOURCE_DIR}/bin/release)
 
-
 include_directories(include)
 
-
 add_subdirectory(src)
-add_subdirectory(include)
 add_subdirectory(test)

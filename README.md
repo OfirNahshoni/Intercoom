@@ -15,7 +15,7 @@ This system includes 2 main components:
 ## Diagrams
 
 ### Hardware Diagram
-![Hardware Diagram](assets/hardware-diagram.png)
+![hardware-diagram.png](assets/hardware-diagram.png)
 
 | **Button** | **Description**                                      |
 |------------|------------------------------------------------------|
@@ -25,5 +25,8 @@ This system includes 2 main components:
 | **Yellow** | Client's request - waiting for response from server. |
 
 
-### Class Diagram
-![Class Diagram](assets/class-diagram.png)
+### Class Diagram - Admin Side
+![class-diagram-admin.png](assets/class-diagram-admin.png)
+
+### Class Diagram - Client Side
+![class-diagram-client.png](assets/class-diagram-client.png)
